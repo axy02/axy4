@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://5h79h7ihfd5mql2iedk5okj1rvbqkjb98u20c1akujop7moksfevv7fa.qc.x.bsgslb.cn:10443/xdispatchdf58136c78e22b98/bigota.d.miui.com/V13.0.6.0.SGACNXM/miui_THYME_V13.0.6.0.SGACNXM_f43177d3f1_12.0.zip?bsreqid=1048c81404dbfdb79b768f08c9c56906
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
